@@ -43,7 +43,10 @@
 <script src="js/materiallize1.0.0.js" ></script>
 <script src="js/materiallize0.97.7.js" ></script>
 <script src="js/modalwindow.js"></script>
+<script src="js/parallax.js"></script>
 <script src="js/vue.js"></script>
 <script src="js/script.js" ></script>
 
+
 </html>
+  

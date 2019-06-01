@@ -8,7 +8,7 @@
     <link href="css/materialize.min.css" rel="stylesheet">
     <link href="css/materiallize0.97.7.css" rel="stylesheet">
     <link href="css/materiallize1.0.0.css" rel="stylesheet">
-    <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js'></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 </head>
 <body>
 	<nav>
@@ -18,10 +18,10 @@
     </div>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li><a href="">Заказ битов</a></li>
-        <li><a href="">Регистрация</a></li>
-        <li><a class="modal-trigger" href="#modal1">Вход</a></li>
+      
+        <li><a class="modal-trigger" href="#modal1">Регистрация и вход</a></li>
       </ul> 
     </div>
   </nav>
- 
+
 	

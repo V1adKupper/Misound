@@ -32,8 +32,11 @@
     </ul>
   </div>
   
-  <div class = backgroundimg style="background-image: url(img/backgroundimg.jpg);" 
->
+ <div class="parallax-container">
+      <div class="parallax">
+    <img src="img/slide1.jpg">
+  </div>
+    
  <div class ="beatm" style="text-align: center; "><h2 style="margin: 0px ; color: white; text-shadow: 1px 0 1px #000, 0 1px 1px #000, -1px 0 1px #000, 0 -1px 1px #000;" > Наши битмари</h2></div>
    <div class="row" style="margin-bottom: 0px;">
     <div class="col s6">
@@ -61,6 +64,6 @@
 </div>
     </div>
 
-
+</div>
 
             
