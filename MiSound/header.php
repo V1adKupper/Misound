@@ -4,11 +4,11 @@
 	<meta charset="UTF-8">
 	<title>MiSound</title>
 	<link href="css/style.css" rel="stylesheet">
-	<link href="css/materialize.css" rel="stylesheet">
-    <link href="css/materialize.min.css" rel="stylesheet">
-    <link href="css/materiallize0.97.7.css" rel="stylesheet">
-    <link href="css/materiallize1.0.0.css" rel="stylesheet">
-    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css'>
+    <script src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
+    <script src="js/materiallize100.js" ></script>
+    <script src="js/materiallize0977.js" ></script>
+
 </head>
 <body>
 	<nav>
